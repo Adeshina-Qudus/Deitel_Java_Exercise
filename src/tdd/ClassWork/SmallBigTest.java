@@ -1,4 +1,4 @@
-package tdd;
+package tdd.ClassWork;
 
 import ClassWork.SmallBig;
 import org.junit.jupiter.api.Test;
