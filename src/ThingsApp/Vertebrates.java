@@ -1,10 +1,5 @@
 package ThingsApp;
 
-public class Vertebrates{
+public class Vertebrates extends Animal{
 
-    private Mammals mammals;
-    private Aves aves;
-    private Reptiels reptiels;
-    private Amphibians amphibians;
-    private Pisces pisces;
 }

@@ -1,5 +1,6 @@
 package ThingsApp;
 
-public class NonLivingThings {
+public class NonLivingThings extends Things {
+
 
 }

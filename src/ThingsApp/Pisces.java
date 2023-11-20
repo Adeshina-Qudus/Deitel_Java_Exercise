@@ -1,4 +1,5 @@
 package ThingsApp;
 
-public class Pisces {
+public class Pisces extends Vertebrates{
+
 }

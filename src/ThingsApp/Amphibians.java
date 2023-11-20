@@ -1,4 +1,4 @@
 package ThingsApp;
 
-public class Amphibians {
+public class Amphibians extends Vertebrates {
 }

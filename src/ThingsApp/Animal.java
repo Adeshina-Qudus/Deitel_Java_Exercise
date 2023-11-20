@@ -1,7 +1,6 @@
 package ThingsApp;
 
-public class Animal {
+public class Animal extends LivingThings{
 
-    private Invertebrates invertebrates;
-    private Vertebrates vertebrates;
+
 }

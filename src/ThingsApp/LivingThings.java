@@ -1,6 +1,5 @@
 package ThingsApp;
 
-public class LivingThings {
-    private Plants plants;
-    private Animal animal;
+public class LivingThings extends Things{
+
 }

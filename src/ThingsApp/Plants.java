@@ -1,4 +1,4 @@
 package ThingsApp;
 
-public class Plants {
+public class Plants extends LivingThings {
 }
