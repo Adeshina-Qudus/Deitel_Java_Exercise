@@ -1,7 +1,8 @@
-package classwork;
+package ClassWork;
+import java.util.Arrays;
 import java.util.Scanner ;
 public class EvenAndOdd {
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         Scanner input = new Scanner(System.in);
 
@@ -15,6 +16,5 @@ public class EvenAndOdd {
         if(userInput %2 != 0) {
             System.out.print("it is an odd number ");
         }
-
     }
 }
