@@ -1,6 +1,5 @@
 package tdd;
 
-import ClassWork.GeoPoliticalZones;
 import org.junit.jupiter.api.Test;
 
 import static junit.framework.TestCase.assertSame;

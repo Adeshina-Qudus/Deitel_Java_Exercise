@@ -1,6 +1,5 @@
 package tdd;
 
-import ClassWork.FunctionArray;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;

@@ -1,9 +1,6 @@
 package tdd.ClassWork;
 
-import ClassWork.Function;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class FunctionTest {
 
