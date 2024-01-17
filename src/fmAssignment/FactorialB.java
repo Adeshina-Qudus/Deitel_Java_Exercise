@@ -1,4 +1,4 @@
-package FMassignment;
+package fmAssignment;
 
 import java.util.Scanner;
 

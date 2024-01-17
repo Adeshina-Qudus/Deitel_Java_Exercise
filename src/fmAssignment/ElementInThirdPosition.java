@@ -1,4 +1,4 @@
-package FMassignment;
+package fmAssignment;
 
 import java.util.ArrayList;
 import java.util.List;
