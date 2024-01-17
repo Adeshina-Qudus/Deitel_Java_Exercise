@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ElementInThirdPosition {
-
     public static int[] elementInOddlyPosition(int[] inputArray) {
         List<Integer> integerList = new ArrayList<>();
         int oddlyPlaced = 1;
