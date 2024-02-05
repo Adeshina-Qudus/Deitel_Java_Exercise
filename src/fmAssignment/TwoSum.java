@@ -14,7 +14,6 @@ public class TwoSum {
         }
         return total;
     }
-
     private static int getTotal(int[] inputArray, int lowerBound, int outter, int total) {
         for (int inner = 0; inner < inputArray.length; inner++) {
             if (inputArray[outter] == inputArray[inner]){
