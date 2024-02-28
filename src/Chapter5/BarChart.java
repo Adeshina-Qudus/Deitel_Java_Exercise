@@ -11,9 +11,6 @@ public class BarChart {
             while (userInput < 1 || userInput > 30 ){
                 System.out.println("ENTER A VALID NUMBER FROM ONE TO THIRTY");
                 userInput = input.nextInt();
-                if (userInput >= 1 || userInput <= 30){
-                    break;
-                }
             }
             for (int counter = 1;counter <= userInput; counter++){
                 System.out.print("*");

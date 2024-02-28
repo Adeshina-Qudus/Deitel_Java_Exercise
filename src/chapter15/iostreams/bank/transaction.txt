@@ -1,0 +1,5 @@
+
+[Transaction{sender='qudus', recipient='lekan', amount='4000'}, Transaction{sender='pe', recipient='Dd', amount='2000'}, Transaction{sender='Tobi', recipient='ope', amount='2000'}]
+[Transaction{sender='qudus', recipient='lekan', amount='4000'}, Transaction{sender='ope', recipient='Dd', amount='2000'}, Transaction{sender='Tobi', recipient='ope', amount='2000'}]
+[Transaction{sender='qudus', recipient='lekan', amount='4000'}, Transaction{sender='ope', recipient='Dd', amount='2000'}, Transaction{sender='Tobi', recipient='ope', amount='2000'}]
+[Transaction{sender='qudus', recipient='lekan', amount='4000'}, Transaction{sender='ope', recipient='Dd', amount='2000'}, Transaction{sender='Tobi', recipient='ope', amount='2000'}]

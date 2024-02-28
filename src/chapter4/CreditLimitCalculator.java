@@ -1,4 +1,4 @@
-package Chapter4;
+package chapter4;
 
 public class CreditLimitCalculator {
 
@@ -46,5 +46,4 @@ public class CreditLimitCalculator {
         }
         return allowedCreditLimit;
     }
-
 }

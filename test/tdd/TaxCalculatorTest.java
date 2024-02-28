@@ -1,6 +1,6 @@
 package tdd;
 
-import Chapter4.TaxCalculator;
+import chapter4.TaxCalculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

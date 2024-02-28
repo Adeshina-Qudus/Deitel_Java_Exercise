@@ -1,7 +1,4 @@
-package Chapter4;
-
-import java.util.Arrays;
-import java.util.Scanner;
+package chapter4;
 
 public class constract {
     public static void main(String[] args) {

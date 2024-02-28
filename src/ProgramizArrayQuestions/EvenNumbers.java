@@ -1,7 +1,5 @@
 package ProgramizArrayQuestions;
 
-import Chapter4.SalesCommissionCalculator;
-
 import java.util.Scanner;
 
 public class EvenNumbers {

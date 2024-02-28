@@ -1,6 +1,6 @@
 package tdd;
 
-import Chapter4.CreditLimitCalculator;
+import chapter4.CreditLimitCalculator;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
