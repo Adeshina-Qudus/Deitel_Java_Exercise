@@ -9,6 +9,5 @@ public class BinaryFunctionTest {
 
     @Test
     public void binaryFunctionTest(){
-        LongToDoubleFunction
     }
 }
