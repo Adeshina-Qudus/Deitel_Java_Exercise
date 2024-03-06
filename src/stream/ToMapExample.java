@@ -1,5 +1,6 @@
 package stream;
 
+import java.util.Map;
 import java.util.Set;
 
 public class ToMapExample {
@@ -7,6 +8,6 @@ public class ToMapExample {
 
         Set<String> stringSet = Set.of("100","2","30","4","5","1");
 
-        Map<Integer,String> stringMap = stringSet.stream();
+//        Map<Integer,String> stringMap = stringSet.stream();
     }
 }
