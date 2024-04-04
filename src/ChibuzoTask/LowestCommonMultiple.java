@@ -31,7 +31,7 @@ public class LowestCommonMultiple {
                 condition = false;
             }
             counterOfOne = 0;
-            if (whenTOAddDivisor>=1) {
+            if (whenTOAddDivisor >= 1) {
                 result.add(divisor);
             }
             whenTOAddDivisor = 0 ;
